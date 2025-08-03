@@ -7,7 +7,7 @@ Koji's portfolio
 
 ### Problem statement
 
-Lakes in Scandinavia and Finland historically freeze up during the winter as part of the important annual ecological process. Scientists are concerned about the possibilty in this annual dynamics, e.g., no ice-cover entire winter. I was tasked to quantitatively predicted physical changes, for 270,000 lakes in the region. 
+Lakes in Scandinavia and Finland historically freeze up during the winter as part of the important annual ecological process. Scientists are concerned about the future disruption in these annual dynamics, e.g., no ice-cover entire winter. I was tasked to quantitatively predicted physical changes, for 270,000 lakes in the region. 
 
 ### Technical challenge
 
