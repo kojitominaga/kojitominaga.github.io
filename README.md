@@ -1,6 +1,3 @@
-# kojitominaga.github.io
-Koji's portfolio
-
 # Projects
 
 ## Climeate change impacts on Northern Europe lake ice dynamics
