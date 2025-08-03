@@ -12,7 +12,7 @@ Combining various datasets (high spatial resolution meteorological scenarios, te
 
 ![Extration of 270,000 lakes](assets/images/image3.png)
 
-<video controls preload="metadata">
+<video controls width="100%" preload="metadata">
   <source src="{{ 'assets/mp4/media1.mp4' | relative_url }}" type="video/mp4">
   Your browser does not support the video tag.
 </video>
