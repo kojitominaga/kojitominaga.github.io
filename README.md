@@ -11,3 +11,8 @@ Lakes in Scandinavia and Finland historically freeze up during the winter as par
 Combining various datasets (high spatial resolution meteorological scenarios, terrain digital elevation models, in-house lake depth models) had to be extracted, normalised for processing by a physical model. The computational load 10,000 core-hours per scenario, necessitating distributed computing in AWS, and task orchestration. The resulting thermal profile over 100 years mounted to terabytes of data. I load the results to a PostGIS (PostgreSQL with computational geometry) for scientific insights. 
 
 ![Extration of 270,000 lakes](assets/images/image3.png)
+
+<video controls preload="metadata">
+  <source src="{{ 'assets/mp4/media1.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
